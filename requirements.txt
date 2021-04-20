@@ -68,7 +68,7 @@ plotly==4.7.1
 pluggy==0.13.1
 prompt-toolkit==3.0.4
 psutil==5.7.0
-py==1.8.1
+py==1.10.0
 pycodestyle==2.6.0
 pycparser==2.20
 pydocstyle==4.0.1
